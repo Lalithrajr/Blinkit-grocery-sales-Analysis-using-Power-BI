@@ -57,7 +57,7 @@ To build an interactive and visually insightful dashboard that helps stakeholder
 
 ## 📷 Project Preview
 
-> ![Dashboard Screenshot]()
+> ![Dashboard Screenshot](https://github.com/Lalithrajr/Blinkit-grocery-sales-Analysis-using-Power-BI/blob/main/Blinkit%20Sales%20Analysis.pdf)
 
 ---
 
@@ -76,6 +76,6 @@ This project demonstrates strong **data visualization**, **business analytics**,
 
 ---
 
-⭐ If you found this project helpful or insightful, feel free to **star this repo** and connect with me on [LinkedIn](https://www.linkedin.com)!
+⭐ If you found this project helpful or insightful, feel free to **star this repositary** and connect with me on [LinkedIn](https://www.linkedin.com/in/lalithraj-ramakrishnan-17a154229)!
 
 
