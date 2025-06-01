@@ -60,7 +60,7 @@ To build an interactive and visually insightful dashboard that helps stakeholder
 
 
 
-🔗 [Click here to view the full dashboard overview in PDF format]()
+🔗 [Click here to view the full dashboard overview in PDF format](https://github.com/Lalithrajr/Blinkit-grocery-sales-Analysis-using-Power-BI/blob/main/Blinkit%20Sales%20Analysis.pdf)
 
 
 
