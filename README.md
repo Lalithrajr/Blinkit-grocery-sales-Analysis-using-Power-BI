@@ -58,7 +58,9 @@ To build an interactive and visually insightful dashboard that helps stakeholder
 ## 📷 Project Preview
 
 
-🔗 [Blinkit Sales Analysis.pdf]
+
+🔗 [Click here to view the full dashboard overview in PDF format](Blinkit_Sales_Analysis.pdf)
+
 
 
 ---
